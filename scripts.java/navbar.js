@@ -39,7 +39,7 @@ function myFunction() {
     var btnText = document.getElementById("myBtn");
   
     if (dots.style.display === "none") {
-      dots.style.display = "inline";
+      dot.style.display = "inline";
       btnText.innerHTML = "Read more";
       moreText.style.display = "none";
     } else {

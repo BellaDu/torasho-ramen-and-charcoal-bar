@@ -152,15 +152,6 @@ iframe {
   display: block;
 }
 
-.video {
-  top: 0;
-  bottom: 0;
-  margin: auto 0;
-  width: 70%;
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-
 .ul2 {
   list-style-type: none;
   margin: 0;
