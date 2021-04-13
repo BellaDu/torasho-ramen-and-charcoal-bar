@@ -1,0 +1,7 @@
+/* Desktop Styles */
+@media (min-width: 767px) {
+  .grid {
+    display: inline-grid;
+    grid-template-columns: auto auto;
+  }
+}
