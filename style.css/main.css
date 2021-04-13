@@ -74,6 +74,26 @@ body {
   box-shadow: 0 0 5rem rgba(0, 0, 0.5);
 }
 
+.mw-med {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.aspect-ratio {
+  position: relative;
+  background: black;
+  width: 100%;
+  padding-top: 56.25%;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 .tc {
   padding-left: 50px;
   padding-right: 40px;
